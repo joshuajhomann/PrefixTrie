@@ -2,6 +2,11 @@
 
 This package provides an implmentation of a prefix tree for a collection.
 
+## Adding the package
+```
+.package(url: "https://github.com/joshuajhomann/PrefixTrie", from: "1.0.0"),
+```
+
 ## Initializers
 
 ```
